@@ -24,11 +24,12 @@ Catppuccin theme for tmux.
 
 To use these keybindings, you need type `<C-B>` first.
 
-| Keymap | Description                    |
-| ------ | ------------------------------ |
-| `h`    | Resize tmux pane to the left   |
-| `j`    | Resize tmux pane to the bottom |
-| `k`    | Resize tmux pane to the top    |
-| `l`    | Resize tmux pane to the right  |
-| `"`    | Split horizontaly              |
-| `%`    | Split verticaly                |
+| Keymap  | Description                    |
+| ------- | ------------------------------ |
+| `h`     | Resize tmux pane to the left   |
+| `j`     | Resize tmux pane to the bottom |
+| `k`     | Resize tmux pane to the top    |
+| `l`     | Resize tmux pane to the right  |
+| `"`     | Split horizontaly              |
+| `%`     | Split verticaly                |
+| `<C-l>` | Clear terminal                 |
