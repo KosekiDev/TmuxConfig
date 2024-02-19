@@ -16,9 +16,9 @@ Basic configuration for tmux.
 
 Tmux keybindings to navigate between vim and tmux splits.
 
-### [catppuccin](https://github.com/catppuccin/tmux)
+### [tmux-gruvbox](https://github.com/egel/tmux-gruvbox)
 
-Catppuccin theme for tmux.
+Gruvbox theme for tmux.
 
 ## Keybindings
 
